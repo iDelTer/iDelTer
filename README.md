@@ -24,8 +24,8 @@
 # Contact
 <p align="left">
 <a href="mailto:ivandelter@outlook.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="E-mail address" width="36" height="36"></a>
-<a href="https://github.com/iDelTer/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub profile link" width="36" height="36"></a>
 <a href="https://es.linkedin.com/in/iv%C3%A1n-delgado-terroso-438b58217"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin profile link" width="36" height="36"></a>
+<a href="https://github.com/iDelTer/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub profile link" width="36" height="36"></a>
 </p>
 
 <!---
