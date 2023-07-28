@@ -20,8 +20,10 @@
 </p>
 
 # Projects
-* 🌍 PrePlace to maximize your performance at working and daily tasks.
-* 🔓 OpenForum, OpenBlog and OpenShop as base for new projects
+* 📓 OmniPlace to create lists and notes in local
+* 🎬 OneMedia to save multimedia data like films, series, games and music
+* 🌍 ~PrePlace to maximize your performance at working and daily tasks.~
+* 🔓 ~OpenForum, OpenBlog and OpenShop as base for new projects~
 
 # Contact
 <p align="left">
