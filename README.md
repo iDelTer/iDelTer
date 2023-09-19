@@ -27,9 +27,9 @@
 
 # Contact
 <p align="left">
-<a href="mailto:ivandelter@outlook.com" alt="E-mail: ivandelter@outlook.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Gmail icon that opens your default e-mail application" width="36" height="36"></a>
+<a href="mailto:ivandelter@outlook.com" title="E-mail: ivandelter@outlook.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Gmail icon that opens your default e-mail application" width="36" height="36"></a>
 <a href="https://es.linkedin.com/in/iv%C3%A1n-delgado-terroso-438b58217" title="Linkedin: Iván Delgado Terroso"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin icon that redirects to profile" width="36" height="36"></a>
-<a href="https://github.com/iDelTer/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub icon that redirects to profile" width="36" height="36"></a>
+<a href="https://github.com/iDelTer/" title="GitHub: iDelTer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub icon that redirects to profile" width="36" height="36"></a>
 </p>
 
 <!---
