@@ -16,6 +16,7 @@
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="42" height="36" alt="React icon that redirects to official documentation" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="36" height="36" alt="Vue icon that redirects to official documentation" /></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259795/php-icon-md.png" width="36" height="36" alt="PHP icon that redirects to official documentation" /></a>
+<a href="[https://laravel.com]" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="36" height="36" alt="Laravel icon that redirects to official web site" /></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="42" height="38" alt="MySQL icon that redirects to official documentation" /></a>
 </p>
 
