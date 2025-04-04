@@ -1,6 +1,6 @@
 # About Me
-* 👋 Hi, I’m Iván Delgado, from Spain, I'm 22 years old and I speak spanish, english and euskera
-* 👀 I’m interested in Web Development, Videogames and Puzzles
+* 👋 Hi, I’m Iván Delgado, from Spain, I'm 24 years old and I speak spanish, english and euskera
+* 👀 I’m interested in Web Development, videogames and puzzles
 * 🧠 I'm learning Front-end and Back-end Web Development
 
 # Skills
@@ -12,6 +12,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="36" height="36" alt="Bootstrap icon that redirects to official documentation" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="36" height="36" alt="JavaScript icon that redirects to Mozilla documentation" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="36" height="36" alt="Typescript icon that redirects to official documentation" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="36" height="36" alt="Java icon that redirects to official documentation" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" width="36" height="36" alt="Spring framework icon that redirects to official documentation" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="36" height="36" alt="Git icon that redirects to official web site" /></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="42" height="36" alt="React icon that redirects to official documentation" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="36" height="36" alt="Vue icon that redirects to official documentation" /></a>
@@ -19,10 +21,6 @@
 <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="36" height="36" alt="Laravel icon that redirects to official web site" /></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="42" height="38" alt="MySQL icon that redirects to official documentation" /></a>
 </p>
-
-# Projects
-* 📓 OmniPlace to create lists and notes in local
-* 🎬 OneMedia to save multimedia data like films, series, games and music
 
 # Contact
 <p align="left">
